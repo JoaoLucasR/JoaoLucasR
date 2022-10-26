@@ -9,9 +9,9 @@
 💬 Respondo perguntas sobre JavaScript, HTML, CSS.
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=KayoSilva19&show_icons=true&theme=tokyonight" alt="JoaoLucasR stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoLucasR&show_icons=true&theme=tokyonight" alt="JoaoLucasR stats"/>
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSilva19&layout=compact&theme=tokyonight" alt="JoaoLucasR most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLucasR&layout=compact&theme=tokyonight" alt="JoaoLucasR most languages"/>
 </p>
 
 <div style="display: inline_block"><br>
