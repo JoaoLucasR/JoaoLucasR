@@ -4,8 +4,9 @@
 
 🎒Fazendo curso FullStack - OneBitCode
 
-🖥️Futuro Front-End
+🖥️Desenvolvedor Front-End 
 
+💬 Respondo perguntas sobre JavaScript, HTML, CSS.
 
 <div align="center">
   <a href="https://github.com/JoaoLucasR">
