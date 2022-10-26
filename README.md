@@ -8,11 +8,11 @@
 
 💬 Respondo perguntas sobre JavaScript, HTML, CSS.
 
-<div align="center">
-  <a href="https://github.com/JoaoLucasR">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=joaolucasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasr&layout=compact&theme=dark" alt="JoaoLucasR most languages"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=KayoSilva19&show_icons=true&theme=tokyonight" alt="KayoSilva19's stats"/>
+
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoSilva19&layout=compact&theme=tokyonight" alt="KayoSilva19's most languages"/>
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
