@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/JoaoLucasR">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=joaolucasr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasr&layout=compact&langs_count=7&theme=dark"/>
+  <img width="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasr&layout=compact&theme=tokyonight" alt="JoaoLucasR most languages"/>
 </div>
 
 <div style="display: inline_block"><br>
